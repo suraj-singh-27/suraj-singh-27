@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suraj
 
 # 💫 About Me:
-Hi there! I’m a passionate aspiring Data Analyst with strong skills in Advanced Excel, Data Cleaning, and Data Visualization. I enjoy turning raw data into meaningful insights and helping businesses make data-driven decisions.
+I’m a passionate aspiring Data Analyst with strong skills in Advanced Excel, Data Cleaning, and Data Visualization. I enjoy turning raw data into meaningful insights and helping businesses make data-driven decisions.
 
 
 ## What I Do
